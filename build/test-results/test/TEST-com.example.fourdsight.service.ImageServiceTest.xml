@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.fourdsight.service.ImageServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-09-11T16:35:35" hostname="EVT01279NB" time="0.023">
+  <properties/>
+  <testcase name="shouldSaveImage" classname="com.example.fourdsight.service.ImageServiceTest" time="0.006"/>
+  <testcase name="shouldSendMessageWhenUrlListIsValid" classname="com.example.fourdsight.service.ImageServiceTest" time="0.008"/>
+  <testcase name="shouldThrowExceptionWhenUrlListIsInvalid" classname="com.example.fourdsight.service.ImageServiceTest" time="0.004"/>
+  <system-out><![CDATA[19:35:35.335 [Test worker] ERROR com.example.fourdsight.service.UrlValidatorService - Invalid url with exception message :no protocol: invalidUrl
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

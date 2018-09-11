@@ -1,0 +1,8 @@
+s19:35:34.941 [Test worker] INFO com.example.fourdsight.communication.ImageListener - Message is handled : Message
+’19:35:34.954 [Test worker] ERROR com.example.fourdsight.communication.ImageListener - Json parsing exception is occured. Exception message : N/A
+s19:35:34.966 [Test worker] INFO com.example.fourdsight.communication.ImageListener - Message is handled : Message
+n19:35:35.212 [Test worker] INFO com.example.fourdsight.communication.ImageSender - Message is arrived : null
+k19:35:35.212 [Test worker] ERROR com.example.fourdsight.communication.ImageSender - Message is not valid!
+	’19:35:35.215 [Test worker] INFO com.example.fourdsight.communication.ImageSender - Message is arrived : ImageMessage(url=https://www.google.com)
+“19:35:35.335 [Test worker] ERROR com.example.fourdsight.service.UrlValidatorService - Invalid url with exception message :no protocol: invalidUrl
+™19:35:35.342 [Test worker] ERROR com.example.fourdsight.service.UrlValidatorService - Invalid url with exception message :no protocol: httpw.google.com

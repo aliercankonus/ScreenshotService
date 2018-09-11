@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.seleniumhq.selenium:selenium-api:3.9.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.9.1/d5447e21f8f90b54d55ffaeaed21c2eefb7f9e9c/selenium-api-3.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.9.1/6d7d1e4444a30bb84633e7ed888e9dcb3877a188/selenium-api-3.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
