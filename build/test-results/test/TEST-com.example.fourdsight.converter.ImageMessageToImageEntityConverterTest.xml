@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.fourdsight.converter.ImageMessageToImageEntityConverterTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-09-11T16:35:34" hostname="EVT01279NB" time="0.004">
-  <properties/>
-  <testcase name="shouldConvertImageMessageToEntity" classname="com.example.fourdsight.converter.ImageMessageToImageEntityConverterTest" time="0.002"/>
-  <testcase name="shouldNotConvertImageMessageToEntityWhenMessageIsNull" classname="com.example.fourdsight.converter.ImageMessageToImageEntityConverterTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
