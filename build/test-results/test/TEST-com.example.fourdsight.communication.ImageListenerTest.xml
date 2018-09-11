@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.fourdsight.communication.ImageListenerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-09-11T21:20:09" hostname="EVT01279NB" time="0.062">
+  <properties/>
+  <testcase name="shouldCreateImageWhenMessageIsInvalid" classname="com.example.fourdsight.communication.ImageListenerTest" time="0.053"/>
+  <testcase name="shouldCreateImageWhenMessageIsValid" classname="com.example.fourdsight.communication.ImageListenerTest" time="0.005"/>
+  <system-out><![CDATA[00:20:09.917 [Test worker] INFO com.example.fourdsight.communication.ImageListener - Message is handled : Message
+00:20:09.935 [Test worker] ERROR com.example.fourdsight.communication.ImageListener - Json parsing exception is occured. Exception message : N/A
+00:20:09.951 [Test worker] INFO com.example.fourdsight.communication.ImageListener - Message is handled : Message
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
