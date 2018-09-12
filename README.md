@@ -8,7 +8,7 @@ Start the Service.
 
 Download the project and open "ScreenshotService\build\libs" folder and run "java -jar fourdsight-0.0.1-SNAPSHOT.jar" on cmd.
 
-If you use curl or postman, you can send a request with below command. You can send a postman request by conterting below command on 
+If you use curl, you can send a request with below command. If you use postman, you can send a request by conterting below command on 
 "Import -> Paste Raw Text".
 
 curl -X POST \
