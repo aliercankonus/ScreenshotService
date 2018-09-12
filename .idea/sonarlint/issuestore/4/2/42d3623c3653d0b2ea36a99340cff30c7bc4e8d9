@@ -1,4 +1,0 @@
-
-osquid:UselessImportCheck"FRemove this unused import 'org.apache.commons.validator.UrlValidator'.(ð ¶ý8ÏÕÄ¸Ü,
-Hsquid:S1612",Replace this lambda with a method reference.(Æ®±»8Áæœ¸Ü,
-Msquid:S1612",Replace this lambda with a method reference.(‰²©èþÿÿÿÿ8Áæœ¸Ü,

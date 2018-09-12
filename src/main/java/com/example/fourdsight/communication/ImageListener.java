@@ -9,6 +9,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jms.annotation.JmsListener;
+import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Component;
 
 import java.io.IOException;
@@ -27,8 +28,9 @@ public class ImageListener {
     }
 
     @JmsListener(destination = ImageConfig.QUEUE_NAME)
+    @Async
     public void receiveMessage(final String message) {
-        log.info("Message is handled : {}", message);
+        log.info("Message is consumed. Message : {}", message);
         try {
             ImageMessage imageMessage = objectMapper.readValue(message, ImageMessage.class);
             imageService.createImageFromUrl(imageMessage);
