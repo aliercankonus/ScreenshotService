@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.fourdsight.communication.ImageListenerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-09-12T13:46:25" hostname="EVT01279NB" time="0.016">
+<testsuite name="com.example.fourdsight.communication.ImageListenerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-09-12T13:50:34" hostname="EVT01279NB" time="0.076">
   <properties/>
-  <testcase name="shouldCreateImageWhenMessageIsInvalid" classname="com.example.fourdsight.communication.ImageListenerTest" time="0.016"/>
-  <testcase name="shouldCreateImageWhenMessageIsValid" classname="com.example.fourdsight.communication.ImageListenerTest" time="0.0"/>
-  <system-out><![CDATA[16:46:25.983 [Test worker] INFO com.example.fourdsight.communication.ImageListener - Message is consumed. Message : Message
-16:46:25.989 [Test worker] ERROR com.example.fourdsight.communication.ImageListener - Json parsing exception is occured. Exception message : N/A
-16:46:25.989 [Test worker] INFO com.example.fourdsight.communication.ImageListener - Message is consumed. Message : Message
+  <testcase name="shouldCreateImageWhenMessageIsInvalid" classname="com.example.fourdsight.communication.ImageListenerTest" time="0.071"/>
+  <testcase name="shouldCreateImageWhenMessageIsValid" classname="com.example.fourdsight.communication.ImageListenerTest" time="0.002"/>
+  <system-out><![CDATA[16:50:34.918 [Test worker] INFO com.example.fourdsight.communication.ImageListener - Message is consumed. Message : Message
+16:50:34.936 [Test worker] ERROR com.example.fourdsight.communication.ImageListener - Json parsing exception is occured. Exception message : N/A
+16:50:34.949 [Test worker] INFO com.example.fourdsight.communication.ImageListener - Message is consumed. Message : Message
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

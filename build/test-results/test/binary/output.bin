@@ -1,8 +1,8 @@
-}16:46:25.983 [Test worker] INFO com.example.fourdsight.communication.ImageListener - Message is consumed. Message : Message
-’16:46:25.989 [Test worker] ERROR com.example.fourdsight.communication.ImageListener - Json parsing exception is occured. Exception message : N/A
-}16:46:25.989 [Test worker] INFO com.example.fourdsight.communication.ImageListener - Message is consumed. Message : Message
-n16:46:26.252 [Test worker] INFO com.example.fourdsight.communication.ImageSender - Message is arrived : null
-k16:46:26.252 [Test worker] ERROR com.example.fourdsight.communication.ImageSender - Message is not valid!
-	’16:46:26.252 [Test worker] INFO com.example.fourdsight.communication.ImageSender - Message is arrived : ImageMessage(url=https://www.google.com)
-“16:46:26.390 [Test worker] ERROR com.example.fourdsight.service.UrlValidatorService - Invalid url with exception message :no protocol: invalidUrl
-™16:46:26.390 [Test worker] ERROR com.example.fourdsight.service.UrlValidatorService - Invalid url with exception message :no protocol: httpw.google.com
+}16:50:34.918 [Test worker] INFO com.example.fourdsight.communication.ImageListener - Message is consumed. Message : Message
+’16:50:34.936 [Test worker] ERROR com.example.fourdsight.communication.ImageListener - Json parsing exception is occured. Exception message : N/A
+}16:50:34.949 [Test worker] INFO com.example.fourdsight.communication.ImageListener - Message is consumed. Message : Message
+n16:50:35.283 [Test worker] INFO com.example.fourdsight.communication.ImageSender - Message is arrived : null
+k16:50:35.283 [Test worker] ERROR com.example.fourdsight.communication.ImageSender - Message is not valid!
+	’16:50:35.286 [Test worker] INFO com.example.fourdsight.communication.ImageSender - Message is arrived : ImageMessage(url=https://www.google.com)
+“16:50:35.519 [Test worker] ERROR com.example.fourdsight.service.UrlValidatorService - Invalid url with exception message :no protocol: invalidUrl
+™16:50:35.540 [Test worker] ERROR com.example.fourdsight.service.UrlValidatorService - Invalid url with exception message :no protocol: httpw.google.com
