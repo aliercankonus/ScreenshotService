@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.fourdsight.service.ImageServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-09-12T12:24:07" hostname="EVT01279NB" time="0.073">
+<testsuite name="com.example.fourdsight.service.ImageServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-09-12T13:46:26" hostname="EVT01279NB" time="0.022">
   <properties/>
-  <testcase name="shouldSaveImage" classname="com.example.fourdsight.service.ImageServiceTest" time="0.053"/>
-  <testcase name="shouldSendMessageWhenUrlListIsValid" classname="com.example.fourdsight.service.ImageServiceTest" time="0.011"/>
-  <testcase name="shouldThrowExceptionWhenUrlListIsInvalid" classname="com.example.fourdsight.service.ImageServiceTest" time="0.004"/>
-  <system-out><![CDATA[15:24:07.218 [Test worker] ERROR com.example.fourdsight.service.UrlValidatorService - Invalid url with exception message :no protocol: invalidUrl
+  <testcase name="shouldSaveImage" classname="com.example.fourdsight.service.ImageServiceTest" time="0.0"/>
+  <testcase name="shouldSendMessageWhenUrlListIsValid" classname="com.example.fourdsight.service.ImageServiceTest" time="0.021"/>
+  <testcase name="shouldThrowExceptionWhenUrlListIsInvalid" classname="com.example.fourdsight.service.ImageServiceTest" time="0.0"/>
+  <system-out><![CDATA[16:46:26.390 [Test worker] ERROR com.example.fourdsight.service.UrlValidatorService - Invalid url with exception message :no protocol: invalidUrl
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
