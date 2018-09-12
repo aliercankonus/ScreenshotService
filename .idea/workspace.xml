@@ -710,7 +710,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.ScreenshotService [clean]">
+  <component name="RunManager" selected="Gradle.ScreenshotService [build]">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
