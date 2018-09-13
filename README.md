@@ -8,8 +8,8 @@ Start the Service.
 
 Download the project and open "ScreenshotService\build\libs" folder and run "java -jar fourdsight-0.0.1-SNAPSHOT.jar" on cmd. After that screenshots will be created under "ScreenshotService\build\libs\Secreenshots" folder.
 
-If you use curl, you can send a request with below command. If you use postman, you can send a request by conterting below command on 
-"Import -> Paste Raw Text".
+If you use curl, you can send a request with below command. If you use postman, you can send a request by converting below command on 
+"Import -> Paste Raw Text" tab.
 
 curl -X POST \
   http://localhost:8080/api/v1/fourdsight \
